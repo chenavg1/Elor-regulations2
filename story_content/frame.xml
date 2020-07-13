@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="מצגת נהלים 2- נוהל חלוקת תרופות, החלפת משמרת, כתיבה ברפורט, משמרת לילה" />
+              <option name="title_text" value="מצגת נהלים מוגבלויות 2" />
             </options>
           </option>
           <option name="logo_enabled" value="true">
@@ -24,7 +24,7 @@
                   <property name="height" value="103" />
                 </properties>
               </option>
-              <option name="html5_logo_url" value="mobile/5pvdLp5iK4e.png" />
+              <option name="html5_logo_url" value="mobile/68ahkcmD6W7.png" />
             </options>
           </option>
           <option name="sidebar_enabled" value="true">
